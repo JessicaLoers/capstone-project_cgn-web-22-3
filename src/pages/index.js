@@ -24,7 +24,11 @@ export default function HomePage() {
 		<Layout>
 			<Helmet>
 				<title key="title">Jennifer</title>
-				<meta key="description" name="description" content="This is the Jennifer project" />
+				<meta
+					key="description"
+					name="description"
+					content="This is the super Jennifer project"
+				/>
 			</Helmet>
 			<h1>Home</h1>
 			{loading && <div>Loading...</div>}
