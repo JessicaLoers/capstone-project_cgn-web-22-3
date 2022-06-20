@@ -23,8 +23,8 @@ export default function HomePage() {
 	return (
 		<Layout>
 			<Helmet>
-				<title key="title">My Project</title>
-				<meta key="description" name="description" content="This is my project" />
+				<title key="title">Jennifer</title>
+				<meta key="description" name="description" content="This is the Jennifer project" />
 			</Helmet>
 			<h1>Home</h1>
 			{loading && <div>Loading...</div>}
