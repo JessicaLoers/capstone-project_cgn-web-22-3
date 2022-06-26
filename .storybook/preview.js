@@ -10,7 +10,6 @@ export const parameters = {
 	},
 };
 
-// wird immer verwendet von Story Book, sie importen den Globalstyle mit
 export const decorators = [
 	Story => (
 		<>
